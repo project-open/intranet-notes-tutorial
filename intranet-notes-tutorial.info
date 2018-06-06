@@ -12,6 +12,7 @@
         <owner url="mailto:frank.bergmann@project-open.com">Frank Bergmann</owner>
         <summary>]project-open[ Notes Tutorial</summary>
         <vendor url="http://www.project-open.com/">]project-open[</vendor>
+	<license>]project-open[ Free License (FL)</license>
         <release-date>2016-11-15</release-date>
         <description format="text/plain">Guides users in 20 easy steps through ]po[ development</description>
 
